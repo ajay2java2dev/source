@@ -1,5 +1,5 @@
 # The Source Code
-desc --> Earthnet, Skynet & Spacenet contains broad-package structure for the commits made through out the year. Skynet would contain the cloud integration, earthnet the processing support for skynet projects and spacenet the front-tier. Basically the 3 broad-package structure would mimic an generalized Model(skynet).V(spacenent).C(controller) pattern.
+desc --> Earthnet, Skynet & Spacenet contains broad-package structure for the commits made through out the year. Skynet would contain the cloud integration, earthnet the processing support for skynet projects and spacenet the front-tier. Basically the 3 broad-package structure would mimic an generalized Model(skynet).View(spacenet).Controller(earthnet) pattern.
 
 @Projects_2016_17@
 ## Earthnet.

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gandalf/gandalf.iml" filepath="$PROJECT_DIR$/gandalf/gandalf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spacenet.iml" filepath="$PROJECT_DIR$/.idea/spacenet.iml" />
+    </modules>
+  </component>
+</project>

@@ -17,7 +17,7 @@ public class BST_Sample1 implements BSTComposite
 
 	private LabUtility labUtility = LabUtility.getInstance();
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception{
 
 		try {
 			BST_Sample1 sample1 = new BST_Sample1();

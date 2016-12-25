@@ -5,68 +5,68 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../sample/gs-uploading-files" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../../../sample/gs-maven" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/FileUtil.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com.dev.util.file.controller/FileDownloadController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/controller/FileDownloadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/manager/FileManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_web_4_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/controller/FileUploadController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com/dev/util/file/application/FileApplication.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_36.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/FileUtilties-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_aop_4_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_context_4_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/MessageUtil-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_expression_4_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_aop_4_2_7_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_36.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_36.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com.dev.util.file.manager/FileManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_36.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_core_4_2_7_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_web_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com.dev.util.file.controller/FileUploadController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_6_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/application/FileApplication.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/MessageUtil.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/utilities.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_6_RELEASE.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_beans_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_context_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_36.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com/dev/util/file/application/FileApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com.dev.util.file.controller/FileDownloadController.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_core_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/manager/FileManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_expression_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/MessageUtil.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/application/FileApplication.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/src/main/java/com.dev.util.file.manager/FileManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/FileUtil.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_36.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/classes/com/dev/util/file/controller/FileDownloadController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/FileUtilties-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_36.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_spring_beans_4_2_7_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/FileUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_6_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/MessageUtil-1.0-SNAPSHOT.jar" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_36.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/MessageUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../../utilities/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterPath="" />
     </list>
     <ignored path="profileassistant.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -129,8 +129,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="3462" />
-    <option name="height" value="1402" />
+    <option name="width" value="4150" />
+    <option name="height" value="1690" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -148,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,6 +159,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -578,11 +578,12 @@
       <workItem from="1482336956258" duration="53000" />
       <workItem from="1482377654934" duration="199000" />
       <workItem from="1482595521257" duration="35000" />
+      <workItem from="1482691941103" duration="58000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14571000" />
+    <option name="totallyTimeSpent" value="14629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -594,7 +595,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="3462" height="1402" extended-state="6" />
+    <frame x="-11" y="-11" width="4150" height="1690" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -611,7 +612,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14154303" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14268112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />

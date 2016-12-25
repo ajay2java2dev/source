@@ -1,0 +1,15 @@
+# source --> all source files generated from 2016-17
+# desc --> Earthnet, Skynet & Spacenet contains broad-package structure for the commits made through out the year. Skynet would contain the cloud integration, earthnet the processing support for skynet projects and spacenet the front-tier. Basically the 3 broad-package structure would mimic an generalized Model(skynet).V(spacenent).C(controller) pattern.
+
+# Just trying to keep all this interesting.
+
+@Projects@
+earthnet
+1. samples - samples made during the typical learning process for manking better utilities and ground software.
+
+2. file processing -
+  2.1 FileContentManager --> A small utility to read and write from a given file effectively. Searching a given file for a pattern or writing to a given file (replacing) or appending to the end of the file (inserting).
+  2.2 FileSplitter --> Split a big file into smaller chunks.
+  2.3 FileMerger --> Combine all files in the array to a single file.
+  
+  

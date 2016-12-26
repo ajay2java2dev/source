@@ -4,16 +4,12 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
-import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
-import org.springframework.stereotype.Component;
 
 /**
  * Created by AjayMenon on 12/25/2016.
  */
 @Configuration
-@EnableWebSecurity
-@Component
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Value("${gandolf.security.username.default:gandolf}")
@@ -34,9 +30,11 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 	@Value("${gandolf.security.in-memory.enabled:true}")
 	public boolean isInMemoryDefaultEnabled;
 
+
 	@Override
 	public void configure(HttpSecurity httpSecurity) throws Exception {
-		httpSecurity.authorizeRequests()
+		httpSecurity
+				.authorizeRequests()
 				.antMatchers("/", "/home").permitAll().anyRequest().authenticated()
 				.and().formLogin().loginPage("/login").permitAll()
 				.and().logout().permitAll();
@@ -44,10 +42,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
 	@Override
 	protected void configure(AuthenticationManagerBuilder auth) throws Exception {
-		if (isInMemoryDefaultEnabled) {
-			auth.inMemoryAuthentication().withUser(username).password(password).roles("USER");
-		} else {
-			//TODO : add more authentication mechanisms
-		}
+		auth.inMemoryAuthentication().withUser(username).password(password).roles("USER");
 	}
 }

@@ -1,5 +1,6 @@
 package net.secure.space.config;
 
+import org.apache.log4j.Logger;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.LocaleResolver;
@@ -12,39 +13,31 @@ import java.util.Locale;
 /**
  * Created by AjayMenon on 12/25/2016.
  */
-@EnableWebMvc
 @Configuration
 public class MVCConfig extends WebMvcConfigurerAdapter{
 
-//	@Override
-//	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-//		registry.addResourceHandler("/resources/**").addResourceLocations("/resources/");
-//	}
+	private Logger logger = Logger.getLogger(this.getClass());
 
 	@Override
-	public void addViewControllers(ViewControllerRegistry registry) {
-		//administration
-		registry.addViewController("/home").setViewName("home");
-		registry.addViewController("/").setViewName("home");
-
-		//dashboard
-		registry.addViewController("/dash").setViewName("dashboard");
-		registry.addViewController("/db").setViewName("dashboard");
-
-		//login page.
-		registry.addViewController("/hello").setViewName("hello");
-
-		registry.addViewController("/login").setViewName("login");
-	}
-
-	@Override
-	public void configureViewResolvers(ViewResolverRegistry registry) {
-		registry.viewResolver(jspViewResolver());
+	public void addResourceHandlers(ResourceHandlerRegistry registry) {
+		registry.addResourceHandler("/jsp/**").addResourceLocations("/jsp/");
+		//registry.addResourceHandler("/template/**").addResourceLocations("/template/");
+		logger.info("Gandalf added resources");
 	}
 
 	@Override
 	public void configureDefaultServletHandling(DefaultServletHandlerConfigurer configurer) {
 		configurer.enable();
+		logger.info("Gandalf enabled configurer");
+	}
+
+	@Override
+	public void addViewControllers(ViewControllerRegistry registry) {
+		//administration
+		registry.addViewController("/").setViewName("home");
+		registry.addViewController("/home").setViewName("home");
+		registry.addViewController("/hello").setViewName("hello");
+		registry.addViewController("/login").setViewName("login");
 	}
 
 	@Bean
@@ -61,7 +54,6 @@ public class MVCConfig extends WebMvcConfigurerAdapter{
 		InternalResourceViewResolver viewResolver = new InternalResourceViewResolver();
 		viewResolver.setPrefix("/jsp/");
 		viewResolver.setSuffix(".jsp");
-		viewResolver.setOrder(1);
 		return viewResolver;
 	}
 

@@ -7,10 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gandalf" />
+        <module name="gandalf-oauth" />
+        <module name="query" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gandalf" target="1.8" />
+      <module name="gandalf-oauth" target="1.8" />
+      <module name="query" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

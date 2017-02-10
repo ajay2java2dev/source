@@ -1,0 +1,777 @@
+2017-01-06 08:24:34,336 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.springframework.guides:tut-spring-boot-oauth:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\pom.xml.
+2017-01-06 08:24:37,756 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-simple:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\simple\pom.xml.
+2017-01-06 08:24:39,534 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-click:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\click\pom.xml.
+2017-01-06 08:24:39,776 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-logout:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\logout\pom.xml.
+2017-01-06 08:24:39,967 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-manual:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\manual\pom.xml.
+2017-01-06 08:24:40,169 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-github:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\github\pom.xml.
+2017-01-06 08:24:40,347 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-auth-server:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\auth-server\pom.xml.
+2017-01-06 08:24:40,481 [Worker-90] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:custom-error:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\custom-error\pom.xml.
+2017-01-06 08:24:44,367 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-auth-server/src/main/java
+2017-01-06 08:24:44,368 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/main/resources
+2017-01-06 08:24:44,376 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/main/resources
+2017-01-06 08:24:44,385 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-auth-server/src/test/java
+2017-01-06 08:24:44,386 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-auth-server/src/test/resources
+2017-01-06 08:24:45,255 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /custom-error/src/main/java
+2017-01-06 08:24:45,255 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /custom-error/src/main/resources
+2017-01-06 08:24:45,265 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /custom-error/src/main/resources
+2017-01-06 08:24:45,272 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /custom-error/src/test/java
+2017-01-06 08:24:45,489 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-github/src/main/java
+2017-01-06 08:24:45,489 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/main/resources
+2017-01-06 08:24:45,495 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/main/resources
+2017-01-06 08:24:45,507 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-github/src/test/java
+2017-01-06 08:24:45,508 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-github/src/test/resources
+2017-01-06 08:24:45,759 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-logout/src/main/java
+2017-01-06 08:24:45,759 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-logout/src/main/resources
+2017-01-06 08:24:45,765 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-logout/src/main/resources
+2017-01-06 08:24:45,774 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-logout/src/test/java
+2017-01-06 08:24:45,974 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-click/src/main/java
+2017-01-06 08:24:45,975 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-click/src/main/resources
+2017-01-06 08:24:45,981 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-click/src/main/resources
+2017-01-06 08:24:45,989 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-click/src/test/java
+2017-01-06 08:24:46,185 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-simple/src/main/java
+2017-01-06 08:24:46,185 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-simple/src/main/resources
+2017-01-06 08:24:46,192 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-simple/src/main/resources
+2017-01-06 08:24:46,201 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-simple/src/test/java
+2017-01-06 08:24:46,415 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-manual/src/main/java
+2017-01-06 08:24:46,416 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-manual/src/main/resources
+2017-01-06 08:24:46,422 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /social-manual/src/main/resources
+2017-01-06 08:24:46,435 [Worker-90] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /social-manual/src/test/java
+2017-01-06 08:24:46,584 [Worker-90] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 8 project(s) in 14 sec
+2017-01-07 09:40:59,897 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:custom-error:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\custom-error\pom.xml.
+2017-01-07 09:41:06,028 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:06,032 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:06,043 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:06,077 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:06,077 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\custom-error\src\test\resources
+2017-01-07 09:41:07,274 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-auth-server:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\auth-server\pom.xml.
+2017-01-07 09:41:07,947 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:07,947 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:07,953 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:07,961 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:07,962 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:08,697 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-click:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\click\pom.xml.
+2017-01-07 09:41:09,243 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:09,244 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:09,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:09,257 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:09,257 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\click\src\test\resources
+2017-01-07 09:41:09,889 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-github:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\github\pom.xml.
+2017-01-07 09:41:11,422 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:11,424 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:11,427 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:11,437 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:11,438 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:12,806 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-logout:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\logout\pom.xml.
+2017-01-07 09:41:15,081 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:15,082 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:15,084 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:15,124 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:15,124 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\logout\src\test\resources
+2017-01-07 09:41:16,338 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-manual:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\manual\pom.xml.
+2017-01-07 09:41:17,495 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:17,496 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:17,497 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:17,527 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:17,527 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\manual\src\test\resources
+2017-01-07 09:41:18,738 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-simple:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\simple\pom.xml.
+2017-01-07 09:41:20,007 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:20,008 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:20,010 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-07 09:41:20,015 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:20,015 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\simple\src\test\resources
+2017-01-07 09:41:20,302 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.springframework.guides:tut-spring-boot-oauth:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\pom.xml.
+2017-01-07 09:41:22,318 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:custom-error:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\custom-error\pom.xml.
+2017-01-07 09:41:22,966 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-auth-server:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\auth-server\pom.xml.
+2017-01-07 09:41:23,158 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-click:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\click\pom.xml.
+2017-01-07 09:41:23,376 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-github:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\github\pom.xml.
+2017-01-07 09:41:23,594 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-logout:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\logout\pom.xml.
+2017-01-07 09:41:23,785 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-manual:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\manual\pom.xml.
+2017-01-07 09:41:23,968 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:social-simple:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\simple\pom.xml.
+2017-01-07 09:41:23,997 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: org.springframework.guides:tut-spring-boot-oauth:0.0.1-SNAPSHOT @ S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\pom.xml.
+2017-01-07 09:41:26,501 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:26,503 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:26,503 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:26,506 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:26,506 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\custom-error\src\test\resources
+2017-01-07 09:41:26,891 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:26,891 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:26,891 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:26,893 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:26,893 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,221 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,222 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,222 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,224 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\click\src\test\resources
+2017-01-07 09:41:27,561 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,561 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,561 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,563 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,564 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,836 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,836 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,836 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:27,838 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:27,838 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\logout\src\test\resources
+2017-01-07 09:41:28,192 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:28,192 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:28,192 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:28,194 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:28,194 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\manual\src\test\resources
+2017-01-07 09:41:28,579 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:28,579 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:28,579 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-07 09:41:28,582 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-07 09:41:28,582 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\spacenet\samples\pivotal\oauth\tut-spring-boot-oauth2\simple\src\test\resources
+2017-01-20 20:35:10,086 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-01-20 20:35:10,216 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-01-20 20:35:10,327 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.0.0.BUILD-SNAPSHOT/spring-boot-maven-plugin-2.0.0.BUILD-20170120.231026-308.pom
+2017-01-20 20:35:10,520 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.0.0.BUILD-SNAPSHOT/spring-boot-maven-plugin-2.0.0.BUILD-20170120.231026-308.pom
+2017-01-20 20:35:10,633 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-tools/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-01-20 20:35:10,776 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-tools/2.0.0.BUILD-SNAPSHOT/maven-metadata.xml
+2017-01-20 20:35:10,865 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-tools/2.0.0.BUILD-SNAPSHOT/spring-boot-tools-2.0.0.BUILD-20170120.231026-307.pom
+2017-01-20 20:35:10,955 [Worker-17] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-tools/2.0.0.BUILD-SNAPSHOT/spring-boot-tools-2.0.0.BUILD-20170120.231026-307.pom
+2017-01-20 20:35:11,020 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:11,036 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:11,045 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:11,200 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\maven-jaxb-plugin\pom.xml.
+2017-01-20 20:35:12,359 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2017-01-20 20:35:12,363 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-20 20:35:12,540 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:12,550 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:12,559 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:12,636 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\maven-jaxb-plugin\pom.xml.
+2017-01-20 20:35:12,953 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-01-20 20:35:13,456 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:13,463 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:35:13,470 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework.boot:spring-boot-maven-plugin:jar:2.0.0.BUILD-20170120.231026-308 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:36:52,555 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 20:36:54,485 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/main/java
+2017-01-20 20:36:54,486 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 20:36:54,491 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 20:36:54,501 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/test/java
+2017-01-20 20:36:54,789 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2017-01-20 20:36:54,791 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-20 20:36:55,186 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 20:36:55,664 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/main/java
+2017-01-20 20:36:55,664 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 20:36:55,666 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 20:36:55,669 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/test/java
+2017-01-20 20:36:55,864 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-01-20 20:36:58,329 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:36:58,332 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:36:58,342 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:36:58,373 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:36:58,373 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:37:00,210 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:37:00,212 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:37:00,212 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:37:00,216 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:37:00,216 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:40:18,139 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:18,140 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:18,140 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:18,142 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:18,142 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:40:22,498 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:22,498 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:22,498 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:22,499 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:22,500 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:40:34,611 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:34,613 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:34,614 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:40:34,617 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:40:34,617 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:41:00,890 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:41:00,890 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:41:00,891 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:41:00,895 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:41:00,895 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:47:15,127 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:47:15,127 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:47:15,127 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:47:15,130 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:47:15,130 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:47:17,695 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:47:17,696 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:47:17,696 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:47:17,701 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:47:17,702 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:48:42,377 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:48:42,377 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:48:42,377 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:48:42,380 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:48:42,380 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:49:07,607 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:49:07,608 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:49:07,608 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 20:49:07,613 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:49:07,613 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:51:48,936 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.12.1/maven-jaxb2-plugin-0.12.1.jar
+2017-01-20 20:51:48,993 [JavaFX Application Thread] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.12.1/maven-jaxb2-plugin-0.12.1.jar
+2017-01-20 20:52:19,183 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.12.1/maven-jaxb2-plugin-0.12.1.pom
+2017-01-20 20:52:19,211 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin/0.12.1/maven-jaxb2-plugin-0.12.1.pom
+2017-01-20 20:52:19,256 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.12.1/maven-jaxb2-plugin-project-0.12.1.pom
+2017-01-20 20:52:19,282 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-project/0.12.1/maven-jaxb2-plugin-project-0.12.1.pom
+2017-01-20 20:52:19,361 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.12.1/maven-jaxb2-plugin-core-0.12.1.pom
+2017-01-20 20:52:19,398 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.12.1/maven-jaxb2-plugin-core-0.12.1.pom
+2017-01-20 20:52:19,487 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2017-01-20 20:52:19,513 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.pom
+2017-01-20 20:52:19,692 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2017-01-20 20:52:19,715 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.pom
+2017-01-20 20:52:19,751 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2017-01-20 20:52:19,813 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.2/maven-plugin-tools-3.2.pom
+2017-01-20 20:52:19,868 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.12.1/maven-jaxb22-plugin-0.12.1.pom
+2017-01-20 20:52:19,902 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.12.1/maven-jaxb22-plugin-0.12.1.pom
+2017-01-20 20:52:20,007 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:20,050 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.11/jaxb-xjc-2.2.11.pom
+2017-01-20 20:52:20,079 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.11/jaxb-xjc-2.2.11.pom
+2017-01-20 20:52:20,087 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:20,102 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:20,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.12.1/maven-jaxb2-plugin-core-0.12.1.jar
+2017-01-20 20:52:20,203 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb2-plugin-core/0.12.1/maven-jaxb2-plugin-core-0.12.1.jar
+2017-01-20 20:52:20,231 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2017-01-20 20:52:20,372 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.2.1/commons-lang3-3.2.1.jar
+2017-01-20 20:52:20,393 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2017-01-20 20:52:20,435 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/org/apache/xml/internal/resolver/20050927/resolver-20050927.jar
+2017-01-20 20:52:20,454 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2017-01-20 20:52:20,548 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.8.1/junit-4.8.1.jar
+2017-01-20 20:52:20,580 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.12.1/maven-jaxb22-plugin-0.12.1.jar
+2017-01-20 20:52:20,611 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jvnet/jaxb2/maven2/maven-jaxb22-plugin/0.12.1/maven-jaxb22-plugin-0.12.1.jar
+2017-01-20 20:52:20,674 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.11/jaxb-xjc-2.2.11.jar
+2017-01-20 20:52:21,861 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-xjc/2.2.11/jaxb-xjc-2.2.11.jar
+2017-01-20 20:52:21,910 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2017-01-20 20:52:21,947 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.2/maven-plugin-annotations-3.2.jar
+2017-01-20 20:52:58,301 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 20:52:58,655 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:58,680 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:58,693 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:52:58,831 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 20:52:58,935 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:52:58,937 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:52:58,937 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:52:58,937 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 20:52:58,939 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:52:58,939 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 20:53:31,207 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 20:53:31,736 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:53:31,741 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:53:31,747 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 20:53:31,814 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 20:53:31,896 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:53:31,898 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:53:31,898 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 20:53:31,898 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 20:53:31,901 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 20:53:31,901 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:20:36,829 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - S:\apps\source\eclipse\spring-jaxb
+2017-01-20 21:20:36,830 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean
+2017-01-20 21:20:39,165 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:20:39,169 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:20:39,171 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:20:39,181 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:20:39,184 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:20:39,186 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:20:39,186 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:20:43,231 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - S:\apps\source\eclipse\spring-jaxb
+2017-01-20 21:20:43,231 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2017-01-20 21:20:51,948 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:20:51,951 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:20:51,951 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:20:51,953 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:20:51,953 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:20:51,955 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:20:51,955 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:48:30,826 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 21:48:31,140 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 21:48:31,144 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 21:48:31,147 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 21:48:31,200 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:48:31,284 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:48:31,285 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 21:48:31,286 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 21:48:31,286 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:48:31,287 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:48:31,287 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:48:33,324 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:48:33,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:48:33,329 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:48:33,340 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:48:33,344 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:48:33,347 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:48:33,347 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:50:38,383 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:50:38,385 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:50:38,386 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:50:38,388 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:50:38,388 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:50:38,389 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:50:38,389 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:51:20,823 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:51:20,825 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:51:20,826 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:51:20,827 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:51:20,827 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:51:20,828 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:51:20,828 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 21:55:13,554 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 21:55:13,556 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:55:13,557 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:55:13,558 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 21:55:13,558 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 21:55:13,560 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 21:55:13,560 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 22:34:04,609 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 22:34:04,612 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:34:04,612 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:34:04,613 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:34:04,614 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 22:34:04,615 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:34:04,615 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 22:35:18,854 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 22:35:18,856 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:35:18,857 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:35:18,858 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:35:18,858 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 22:35:18,860 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:35:18,860 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 22:35:26,798 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 22:35:26,800 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:35:26,800 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:35:26,801 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:35:26,801 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 22:35:26,804 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:35:26,804 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 22:36:57,590 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 22:36:57,593 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:36:57,594 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:36:57,595 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 22:36:57,596 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 22:36:57,597 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 22:36:57,598 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:37:01,515 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:37:01,518 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:37:01,518 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:37:01,520 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:37:01,520 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:37:01,522 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:37:01,522 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:40:09,211 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:40:09,213 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:09,214 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:40:09,214 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:40:09,216 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:40:09,218 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:09,218 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:40:26,583 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:40:26,585 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:26,585 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:40:26,586 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:40:26,587 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:40:26,589 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:26,589 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:40:41,446 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:40:41,448 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:41,448 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:40:41,449 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:40:41,449 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:40:41,451 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:41,451 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:40:55,178 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:40:55,180 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:55,180 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:40:55,180 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:40:55,182 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:40:55,183 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:40:55,183 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:42:18,408 [Worker-115] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-20 23:42:18,786 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 23:42:19,020 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:42:19,024 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:42:19,028 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:42:19,084 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:42:19,149 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/main/java
+2017-01-20 23:42:19,149 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/target/generated-sources/xjc
+2017-01-20 23:42:19,149 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 23:42:19,150 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 23:42:19,150 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/test/java
+2017-01-20 23:42:19,313 [Worker-115] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-01-20 23:42:20,061 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:42:20,073 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:42:20,074 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:42:20,081 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:42:20,085 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:42:20,087 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:42:20,087 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:44:38,825 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:44:38,827 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:44:38,828 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:44:38,829 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-20 23:44:38,836 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:44:38,860 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:44:38,860 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:45:05,416 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:45:05,419 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:45:05,420 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:45:05,421 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:45:05,425 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:45:05,426 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:45:05,426 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:45:31,873 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:45:31,875 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:45:31,876 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:45:31,877 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:45:31,877 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:45:31,878 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:45:31,878 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:48:03,034 [Worker-128] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-20 23:48:03,393 [Worker-128] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring.jaxb:SpringJaxB:1.0 @ S:\apps\source\eclipse\spring-jaxb\pom.xml.
+2017-01-20 23:48:03,619 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:48:03,623 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-xjc:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:48:03,627 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-01-20 23:48:03,701 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:48:03,758 [Worker-128] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/main/java
+2017-01-20 23:48:03,758 [Worker-128] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/target/generated-sources/xjc
+2017-01-20 23:48:03,759 [Worker-128] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 23:48:03,759 [Worker-128] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-jaxb/src/main/resources
+2017-01-20 23:48:03,759 [Worker-128] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-jaxb/src/test/java
+2017-01-20 23:48:03,884 [Worker-128] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-01-20 23:48:04,702 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:48:04,718 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:04,718 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:48:04,730 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:48:04,735 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:48:04,737 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:04,737 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:48:24,901 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:48:24,904 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:24,906 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:48:24,908 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:48:24,908 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:48:24,910 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:24,911 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:48:40,612 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:48:40,614 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:40,614 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:48:40,614 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:48:40,615 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:48:40,617 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:48:40,617 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:49:00,102 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:49:00,104 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:49:00,105 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:49:00,105 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-20 23:49:00,112 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:49:00,114 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:49:00,114 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:49:10,828 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:49:10,829 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:49:10,830 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:49:10,830 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:49:10,832 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:49:10,834 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:49:10,834 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:54:22,083 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:54:22,086 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:54:22,086 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:54:22,088 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:54:22,089 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:54:22,090 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:54:22,090 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:56:25,323 [Worker-131] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:56:25,325 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:56:25,326 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:56:25,327 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-20 23:56:25,327 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:56:25,329 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:56:25,329 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:57:59,425 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:57:59,427 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:57:59,427 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:57:59,427 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:57:59,429 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:57:59,432 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:57:59,432 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:59:20,476 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:59:20,478 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:20,479 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:59:20,479 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:59:20,480 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:59:20,482 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:20,482 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:59:30,732 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:59:30,734 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:30,734 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:59:30,734 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-20 23:59:30,735 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:59:30,737 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:30,737 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-20 23:59:37,459 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-20 23:59:37,460 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:37,461 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:59:37,462 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-20 23:59:37,462 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-20 23:59:37,463 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-20 23:59:37,463 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:00:13,095 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:00:13,097 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:13,098 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:00:13,098 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-21 00:00:13,104 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:00:13,105 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:13,106 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:00:37,120 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:00:37,122 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:37,123 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:37,125 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-21 00:00:37,126 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:00:37,128 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:37,128 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:00:40,466 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:00:40,468 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:40,469 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:40,470 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-01-21 00:00:40,471 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:00:40,472 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:40,472 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:00:42,718 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:00:42,720 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:42,721 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:42,722 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:42,723 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:00:42,725 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:42,725 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:00:57,530 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:00:57,533 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:57,534 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:57,535 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:00:57,536 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:00:57,539 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:00:57,540 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:01:02,398 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:01:02,400 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:01:02,401 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:01:02,402 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:01:02,402 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:01:02,404 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:01:02,404 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:01:07,450 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:01:07,453 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:01:07,453 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:01:07,455 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:01:07,455 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:01:07,457 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:01:07,457 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:03:52,963 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:03:52,965 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:03:52,966 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:03:52,966 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:03:52,967 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:03:52,968 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:03:52,968 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:04:04,133 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:04:04,135 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:04,135 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:04:04,135 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:04:04,136 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:04:04,137 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:04,137 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:04:10,646 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:04:10,648 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:10,649 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:04:10,651 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:04:10,651 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:04:10,652 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:10,652 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:04:14,638 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:04:14,639 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:14,640 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:04:14,642 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:04:14,642 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:04:14,643 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:14,643 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:04:20,626 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:04:20,629 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:20,629 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:04:20,630 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:04:20,630 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:04:20,632 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:20,632 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:04:35,408 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:04:35,410 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:35,410 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:04:35,411 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-21 00:04:35,417 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:04:35,419 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:04:35,419 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:05:50,520 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:05:50,522 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:05:50,522 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:05:50,524 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:05:50,526 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:05:50,527 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:05:50,527 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:05:59,493 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:05:59,495 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:05:59,496 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:05:59,498 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-01-21 00:05:59,502 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:05:59,503 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:05:59,504 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:07:04,066 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:07:04,068 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:04,069 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:07:04,069 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:07:04,071 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:07:04,073 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:04,073 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:07:27,166 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:07:27,167 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:27,168 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:07:27,168 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:07:27,169 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:07:27,170 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:27,170 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:07:54,154 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:07:54,156 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:54,156 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:07:54,157 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-01-21 00:07:54,165 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:07:54,167 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:07:54,167 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:08:30,378 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:08:30,380 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:30,381 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:08:30,383 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-01-21 00:08:30,384 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:08:30,385 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:30,385 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:08:35,720 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:08:35,721 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:35,722 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:08:35,724 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:08:35,726 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:08:35,727 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:35,727 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:08:38,936 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:08:38,938 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:38,939 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:08:38,939 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:08:38,939 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:08:38,940 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:08:38,940 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:12:12,980 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:12:12,983 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:12:12,983 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:12:12,984 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:12:12,985 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:12:12,986 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:12:12,986 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:13:22,101 [Worker-133] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:13:22,103 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:22,104 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:13:22,105 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:13:22,105 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:13:22,107 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:22,107 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:13:45,587 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE-sources.jar
+2017-01-21 00:13:45,785 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/1.4.3.RELEASE/spring-boot-1.4.3.RELEASE-sources.jar
+2017-01-21 00:13:45,817 [Worker-137] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot:1.4.3.RELEASE
+2017-01-21 00:13:45,843 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE-sources.jar
+2017-01-21 00:13:46,054 [Worker-137] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE-sources.jar
+2017-01-21 00:13:46,089 [Worker-137] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-core:4.3.5.RELEASE
+2017-01-21 00:13:46,480 [Worker-137] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:13:46,482 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:46,482 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:13:46,482 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:13:46,483 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:13:46,484 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:46,484 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:13:48,494 [Worker-134] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar
+2017-01-21 00:13:48,866 [Worker-134] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE-sources.jar
+2017-01-21 00:13:48,900 [Worker-134] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context:4.3.5.RELEASE
+2017-01-21 00:13:49,247 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:13:49,250 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:49,250 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:13:49,250 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:13:49,251 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:13:49,252 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:13:49,252 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:14:18,221 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:14:18,223 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:14:18,224 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:14:18,225 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:14:18,225 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:14:18,226 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:14:18,227 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:14:45,234 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:14:45,236 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:14:45,236 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:14:45,237 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:14:45,238 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:14:45,239 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:14:45,239 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:15:28,823 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:15:28,825 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:15:28,825 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:15:28,826 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:15:28,827 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:15:28,828 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:15:28,828 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:15:33,858 [Worker-134] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:15:33,860 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:15:33,860 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:15:33,862 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:15:33,862 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:15:33,863 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:15:33,863 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:18:44,395 [Worker-138] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:18:44,397 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:18:44,398 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:18:44,399 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:18:44,399 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:18:44,401 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:18:44,401 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:18:58,015 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:18:58,017 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:18:58,018 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:18:58,019 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:18:58,019 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:18:58,021 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:18:58,021 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:19:22,789 [Worker-143] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:19:22,791 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:19:22,791 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:19:22,792 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-21 00:19:22,793 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:19:22,794 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:19:22,794 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:24:14,965 [Worker-150] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:24:14,967 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:24:14,968 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:24:14,969 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:24:14,969 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:24:14,971 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:24:14,971 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:48:43,925 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:48:43,928 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:48:43,928 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:48:43,930 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:48:43,930 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:48:43,932 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:48:43,932 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:50:58,077 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:50:58,079 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:50:58,079 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:50:58,081 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:50:58,081 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:50:58,083 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:50:58,083 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources
+2017-01-21 00:51:26,068 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - No schemas to compile. Skipping XJC execution. 
+2017-01-21 00:51:26,070 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:51:26,071 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:51:26,072 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-01-21 00:51:26,073 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\target\generated-sources\xjc
+2017-01-21 00:51:26,074 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-01-21 00:51:26,074 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory S:\apps\source\eclipse\spring-jaxb\src\test\resources

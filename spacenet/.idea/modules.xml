@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/gandalf/gandalf.iml" filepath="$PROJECT_DIR$/gandalf/gandalf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gandalf-oauth/gandalf-oauth.iml" filepath="$PROJECT_DIR$/gandalf-oauth/gandalf-oauth.iml" />
+      <module fileurl="file://S:\apps\source\spacenet\query\query.iml" filepath="S:\apps\source\spacenet\query\query.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spacenet.iml" filepath="$PROJECT_DIR$/.idea/spacenet.iml" />
     </modules>
   </component>

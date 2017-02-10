@@ -1,0 +1,10 @@
+databaseChangeLog:
+  - changeSet :
+    id : 1
+    author : PLAB_ADMIN
+    changes :
+      - insert :
+        tableName : RATING_GROUP
+        column :
+          name : RATING_GROUP_ID
+          value : 3300

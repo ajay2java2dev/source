@@ -21,7 +21,7 @@ public class MVCConfig extends WebMvcConfigurerAdapter{
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
 		registry.addResourceHandler("/jsp/**").addResourceLocations("/jsp/");
-		//registry.addResourceHandler("/template/**").addResourceLocations("/template/");
+		registry.addResourceHandler("/static/**").addResourceLocations("/static/");
 		logger.info("Gandalf added resources");
 	}
 

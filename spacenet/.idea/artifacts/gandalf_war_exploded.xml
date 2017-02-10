@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="gandalf:war exploded">
-    <output-path>$PROJECT_DIR$/gandalf/target/gandalf-0.0.1-SNAPSHOT</output-path>
+    <output-path>$PROJECT_DIR$/gandalf/target/gandalf-1.0</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -14,6 +14,7 @@
           <element id="library" level="project" name="Maven: ch.qos.logback:logback-core:1.1.8" />
           <element id="library" level="project" name="Maven: org.slf4j:jul-to-slf4j:1.7.22" />
           <element id="library" level="project" name="Maven: org.slf4j:log4j-over-slf4j:1.7.22" />
+          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-validator:5.2.4.Final" />
           <element id="library" level="project" name="Maven: javax.validation:validation-api:1.1.0.Final" />
           <element id="library" level="project" name="Maven: org.jboss.logging:jboss-logging:3.3.0.Final" />
@@ -23,88 +24,18 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.5" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-cache:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:4.3.5.RELEASE" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-oauth2/1.1.4.BUILD-SNAPSHOT/spring-cloud-starter-oauth2-1.1.4.BUILD-20161225.064219-871.jar" output-file-name="spring-cloud-starter-oauth2-1.1.4.BUILD-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-security/1.1.4.BUILD-SNAPSHOT/spring-cloud-starter-security-1.1.4.BUILD-20161225.064214-871.jar" output-file-name="spring-cloud-starter-security-1.1.4.BUILD-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter/1.1.7.BUILD-SNAPSHOT/spring-cloud-starter-1.1.7.BUILD-20161225.060912-252.jar" output-file-name="spring-cloud-starter-1.1.7.BUILD-SNAPSHOT.jar" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-context/1.1.7.BUILD-SNAPSHOT/spring-cloud-context-1.1.7.BUILD-20161225.060840-252.jar" output-file-name="spring-cloud-context-1.1.7.BUILD-SNAPSHOT.jar" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-crypto:4.1.4.RELEASE" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-commons/1.1.7.BUILD-SNAPSHOT/spring-cloud-commons-1.1.7.BUILD-20161225.060905-252.jar" output-file-name="spring-cloud-commons-1.1.7.BUILD-SNAPSHOT.jar" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-rsa:1.0.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-actuator:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-actuator:1.4.3.RELEASE" />
-          <element id="file-copy" path="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-security/1.1.4.BUILD-SNAPSHOT/spring-cloud-security-1.1.4.BUILD-20161225.064209-871.jar" output-file-name="spring-cloud-security-1.1.4.BUILD-SNAPSHOT.jar" />
-          <element id="library" level="project" name="Maven: org.springframework.security.oauth:spring-security-oauth2:2.0.12.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.1.4.RELEASE" />
-          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
-          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
-          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.13" />
-          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.13" />
-          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-jwt:1.0.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.bouncycastle:bcpkix-jdk15on:1.47" />
-          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk15on:1.47" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-cassandra:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-cassandra:1.4.6.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-cql:1.4.6.RELEASE" />
-          <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.6.RELEASE" />
-          <element id="library" level="project" name="Maven: com.datastax.cassandra:cassandra-driver-dse:2.1.9" />
-          <element id="library" level="project" name="Maven: com.datastax.cassandra:cassandra-driver-core:2.1.9" />
-          <element id="library" level="project" name="Maven: io.netty:netty-handler:4.0.27.Final" />
-          <element id="library" level="project" name="Maven: io.netty:netty-buffer:4.0.27.Final" />
-          <element id="library" level="project" name="Maven: io.netty:netty-common:4.0.27.Final" />
-          <element id="library" level="project" name="Maven: io.netty:netty-transport:4.0.27.Final" />
-          <element id="library" level="project" name="Maven: io.netty:netty-codec:4.0.27.Final" />
-          <element id="library" level="project" name="Maven: com.codahale.metrics:metrics-core:3.0.2" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.22" />
-          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.22" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-elasticsearch:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-elasticsearch:2.0.6.RELEASE" />
-          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
-          <element id="library" level="project" name="Maven: joda-time:joda-time:2.9.6" />
-          <element id="library" level="project" name="Maven: org.elasticsearch:elasticsearch:2.4.3" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-core:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-backward-codecs:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-analyzers-common:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queries:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-memory:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-highlighter:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-queryparser:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-sandbox:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-suggest:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-misc:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-join:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-grouping:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-spatial:5.5.2" />
-          <element id="library" level="project" name="Maven: org.apache.lucene:lucene-spatial3d:5.5.2" />
-          <element id="library" level="project" name="Maven: com.spatial4j:spatial4j:0.5" />
-          <element id="library" level="project" name="Maven: org.elasticsearch:securesm:1.0" />
-          <element id="library" level="project" name="Maven: com.carrotsearch:hppc:0.7.1" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.8.5" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-yaml:2.8.5" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:2.8.5" />
-          <element id="library" level="project" name="Maven: io.netty:netty:3.10.6.Final" />
-          <element id="library" level="project" name="Maven: com.ning:compress-lzf:1.0.2" />
-          <element id="library" level="project" name="Maven: com.tdunning:t-digest:3.0" />
-          <element id="library" level="project" name="Maven: org.hdrhistogram:HdrHistogram:2.1.6" />
-          <element id="library" level="project" name="Maven: commons-cli:commons-cli:1.3.1" />
-          <element id="library" level="project" name="Maven: com.twitter:jsr166e:1.1.0" />
           <element id="library" level="project" name="Maven: net.java.dev.jna:jna:4.1.0" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jdbc:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jdbc:8.5.6" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-juli:8.5.6" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.liquibase:liquibase-core:3.5.3" />
-          <element id="library" level="project" name="Maven: org.yaml:snakeyaml:1.17" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.4.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.4.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.9" />
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:5.0.11.Final" />
           <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.1-api:1.0.0.Final" />
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
@@ -116,9 +47,13 @@
           <element id="library" level="project" name="Maven: org.hibernate:hibernate-entitymanager:5.0.11.Final" />
           <element id="library" level="project" name="Maven: javax.transaction:javax.transaction-api:1.2" />
           <element id="library" level="project" name="Maven: org.springframework.data:spring-data-jpa:1.10.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.12.6.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-orm:4.3.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.22" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.22" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jersey:1.4.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-validation:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-server:2.23.2" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.core:jersey-common:2.23.2" />
           <element id="library" level="project" name="Maven: org.glassfish.jersey.bundles.repackaged:jersey-guava:2.23.2" />
@@ -153,35 +88,33 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-oxm:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.ws:spring-ws-core:2.3.1.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.ws:spring-xml:2.3.1.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-jta-narayana:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.jboss:jboss-transaction-spi:7.3.4.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.spec.javax.resource:jboss-connector-api_1.7_spec:1.0.0.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana.jta:jdbc:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana.jta:jms:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana.jta:jta:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana:common:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana.arjunacore:arjuna:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.jboss.narayana.jts:narayana-jts-integration:5.3.5.Final" />
-          <element id="library" level="project" name="Maven: org.springframework.retry:spring-retry:1.1.5.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-security:1.4.3.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.1.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.1.4.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:4.1.4.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-validation:1.4.3.RELEASE" />
-          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.6" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-devtools:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-tomcat:1.4.3.RELEASE" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-core:8.5.6" />
+          <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-el:8.5.6" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-websocket:8.5.6" />
           <element id="library" level="project" name="Maven: org.apache.tomcat.embed:tomcat-embed-jasper:8.5.6" />
           <element id="library" level="project" name="Maven: org.eclipse.jdt.core.compiler:ecj:4.5.1" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.webjars:angularjs:1.4.3" />
+          <element id="library" level="project" name="Maven: org.webjars:jquery:2.1.1" />
+          <element id="library" level="project" name="Maven: org.webjars:bootstrap:3.2.0" />
+          <element id="library" level="project" name="Maven: org.webjars:webjars-locator:0.32" />
+          <element id="library" level="project" name="Maven: org.webjars:webjars-locator-core:0.30" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.9" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/gandalf/target/gandalf-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/gandalf/target/gandalf-1.0/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="gandalf/web/Web" />
     </root>

@@ -1,0 +1,2 @@
+context.path=com.spring.jaxb.orderss
+schema.location=xsd/order-schema.xsd

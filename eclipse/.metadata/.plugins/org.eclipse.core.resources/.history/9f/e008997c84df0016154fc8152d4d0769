@@ -1,0 +1,30 @@
+package com.spring.jaxb;
+
+import javax.xml.bind.JAXB;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.oxm.jaxb.Jaxb2Marshaller;
+
+@SpringBootApplication
+public class SpringJaxbApplication implements CommandLineRunner{
+
+	private static final Logger logger = LoggerFactory.getLogger(SpringJaxbApplication.class);
+	
+	@Autowired
+	private Jaxb2Marshaller jaxb2Marshaller;
+	
+	public static void main(String[] args) {
+		SpringApplication.run(SpringJaxbApplication.class, args);
+	}
+
+	@Override
+	public void run(String... arg0) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+}

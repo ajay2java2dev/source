@@ -1,0 +1,5 @@
+package com.spring.jaxb.config;
+
+public class JaxbConfig {
+
+}

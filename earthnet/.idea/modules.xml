@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/earthnet.iml" filepath="$PROJECT_DIR$/.idea/earthnet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc-exceptions/src/main/mvc-exceptions-sample.iml" filepath="$PROJECT_DIR$/mvc-exceptions/src/main/mvc-exceptions-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform-manager/platform-manager.iml" filepath="$PROJECT_DIR$/platform-manager/platform-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/samples/samples.iml" filepath="$PROJECT_DIR$/samples/samples.iml" />
     </modules>
   </component>

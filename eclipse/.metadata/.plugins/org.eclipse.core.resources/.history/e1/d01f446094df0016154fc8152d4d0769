@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:address orderid="" xmlns:tns="http://www.example.org/sample-schema1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/sample-schema1/ order-schema.xsd ">
+  <name>name</name>
+  <line1>line1</line1>
+  <line2>line2</line2>
+  <line3>line3</line3>
+  <city>city</city>
+  <state>state</state>
+  <country>country</country>
+  <postcode>postcode</postcode>
+</tns:address>

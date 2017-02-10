@@ -13,3 +13,7 @@ desc --> Earthnet, Skynet & Spacenet contains broad-package structure for the co
 
 ## Spacenet.
   
+## Configurations.
+
+###Log4j :
+1. sample log4 2 xml has been added to the the path along with README.md. Contains few links for references and log4j.xml patterns.

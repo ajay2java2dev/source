@@ -34,7 +34,19 @@ public class BinarySearchTree {
      * @return index position found or the tree level. If no entry found return -1.
      *
      */
-    protected Integer find(final Comparable searchVal) {
+    protected Comparable find (final Comparable searchVal) {
+        if (searchVal!=null) {
+            Node current = root;
+            while (current!=null) {
+                if (current.getData().compareTo(searchVal) > 0) {
+                    current = current.getLeftNode();
+                } else if (current.getData().compareTo(searchVal) < 0) {
+                    current = current.getRightNode();
+                } else {
+                    return current.getData();
+                }
+            }
+        }
         return null;
     }
 
@@ -112,8 +124,8 @@ public class BinarySearchTree {
         binarySearchTree.insert(new Integer(27));
 
         binarySearchTree.display(binarySearchTree.root);
-
-
+        System.out.println("found : " + binarySearchTree.find(15));
+        System.out.println("found : " + binarySearchTree.find(28));
     }
 
 }

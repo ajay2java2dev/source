@@ -168,26 +168,20 @@ public class BinarySearchTree {
 
             while (true) {
                 parent = current;
-
                 if (current.getData().compareTo(insertVal) > 0) {
                     //go left
                     current = current.getLeftNode();
-
                     if (current == null) {
                         parent.setLeftNode(newNode);
                         return level++;
                     }
-
                 } else if (current.getData().compareTo(insertVal) < 0) {
                     //go right
-
                     current = current.getRightNode();
-
                     if (current == null) {
                         parent.setRightNode(newNode);
                         return level++;
                     }
-
                 } else {
                     // return since value already exists.
                     return level;

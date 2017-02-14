@@ -1,9 +1,10 @@
 package com.dev.sample.puzzles;
 
 import java.io.*;
+import java.math.BigInteger;
 import java.util.*;
 
-public class Fibonacci {
+public class FibonacciChecker {
 
     int startNum = 0;
     int sum = 0;
@@ -23,23 +24,24 @@ public class Fibonacci {
         }
     }
 
-    boolean isPerfectSquare (Long x) {
+    boolean isPerfectSquare (Integer x) {
         double s = Math.sqrt(x);
         return (s*s == x);
     }
 
-    public boolean isFibonacci (Long number) {
-        return isPerfectSquare(5*number*number + 4) || isPerfectSquare(5*number*number -4);
+    public boolean isFibonacci (BigInteger number) {
+        return isPerfectSquare(5*number.intValue()*number.intValue() + 4) ||
+                isPerfectSquare(5*number.intValue()*number.intValue() -4);
     }
 
     public static void main(String[] args) throws Exception{
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        Long numberOfTestCases = Long.parseLong(reader.readLine());
+        Integer numberOfTestCases = Integer.parseInt(reader.readLine());
         int count = 0;
-        Fibonacci sol = new Fibonacci ();
+        FibonacciChecker sol = new FibonacciChecker();
         while (count < numberOfTestCases) {
-            Long val = Long.parseLong(reader.readLine());
+            BigInteger val = new BigInteger(reader.readLine());
 
             //sol.calculateFib(val); //very ver slow method
             if (sol.isFibonacci(val)) {

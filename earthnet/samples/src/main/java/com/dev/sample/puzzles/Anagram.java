@@ -21,7 +21,7 @@ public class Anagram {
         String a1String = new String(s1Array);
         String a2String = new String(s2Array);
 
-        return a1String.equalsIgnoreCase(a2String);
+        return a1String.trim().toLowerCase().equalsIgnoreCase(a2String.trim().toLowerCase());
     }
 
     public static void main(String[] args) {

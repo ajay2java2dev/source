@@ -33,7 +33,7 @@ public class Anagram {
         }
 
         if (isAnagram1(s1, s2)) {
-            System.out.print(s1 + " and " + s2 + "are anagrams");
+            System.out.print(s1 + " and " + s2 + " are anagrams");
         }
     }
 }

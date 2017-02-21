@@ -18,11 +18,37 @@ import com.dev.sample.vo.Node;
  */
 public class BinarySearchTree {
 
-    private static Node root;
+    private Node root;
     private Integer level = -1;
 
     public BinarySearchTree() {
         this.root = null;
+    }
+
+    public static void main(String[] args) {
+        BinarySearchTree binarySearchTree = new BinarySearchTree();
+        binarySearchTree.insert(new Integer(21));
+        binarySearchTree.insert(new Integer(15));
+        binarySearchTree.insert(new Integer(28));
+        binarySearchTree.insert(new Integer(16));
+        binarySearchTree.insert(new Integer(25));
+        binarySearchTree.insert(new Integer(30));
+        binarySearchTree.insert(new Integer(14));
+        binarySearchTree.insert(new Integer(19));
+        binarySearchTree.insert(new Integer(24));
+        binarySearchTree.insert(new Integer(26));
+        binarySearchTree.insert(new Integer(29));
+        binarySearchTree.insert(new Integer(31));
+        binarySearchTree.insert(new Integer(17));
+        binarySearchTree.insert(new Integer(20));
+
+        binarySearchTree.display(binarySearchTree.root);
+        System.out.println("found : " + binarySearchTree.find(15));
+        System.out.println("found : " + binarySearchTree.find(28));
+
+        binarySearchTree.delete(new Integer(25));
+        binarySearchTree.display(binarySearchTree.root);
+
     }
 
     /**
@@ -51,6 +77,7 @@ public class BinarySearchTree {
 
     /**
      * Delete a node from the BST.
+     *
      * @param deleteVal
      * @return
      */
@@ -126,7 +153,6 @@ public class BinarySearchTree {
         return null;
     }
 
-
     public Node getSuccessor(Node deleleNode) {
         Node successsor = null;
         Node successsorParent = null;
@@ -200,31 +226,19 @@ public class BinarySearchTree {
         }
     }
 
-
-    public static void main(String[] args) {
-        BinarySearchTree binarySearchTree = new BinarySearchTree();
-        binarySearchTree.insert(new Integer(21));
-        binarySearchTree.insert(new Integer(15));
-        binarySearchTree.insert(new Integer(28));
-        binarySearchTree.insert(new Integer(16));
-        binarySearchTree.insert(new Integer(25));
-        binarySearchTree.insert(new Integer(30));
-        binarySearchTree.insert(new Integer(14));
-        binarySearchTree.insert(new Integer(19));
-        binarySearchTree.insert(new Integer(24));
-        binarySearchTree.insert(new Integer(26));
-        binarySearchTree.insert(new Integer(29));
-        binarySearchTree.insert(new Integer(31));
-        binarySearchTree.insert(new Integer(17));
-        binarySearchTree.insert(new Integer(20));
-
-        binarySearchTree.display(binarySearchTree.root);
-        System.out.println("found : " + binarySearchTree.find(15));
-        System.out.println("found : " + binarySearchTree.find(28));
-
-        binarySearchTree.delete(new Integer(25));
-        binarySearchTree.display(binarySearchTree.root);
-
+    public Integer getLevel() {
+        return level;
     }
 
+    public void setLevel(Integer level) {
+        this.level = level;
+    }
+
+    public Node getRoot() {
+        return root;
+    }
+
+    public void setRoot(Node root) {
+        this.root = root;
+    }
 }

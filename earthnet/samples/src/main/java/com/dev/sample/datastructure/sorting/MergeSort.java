@@ -69,15 +69,22 @@ public class MergeSort {
 
         try {
             String numberOfElements = reader.readLine();
-            String [] comparableElementArray = reader.readLine().split(" ");
+            String[] comparableElementArray = null;
+            Comparable[] comparables = null;
 
-            //TODO : Validate if the number of elements and array.length do match or not.
+            try {
+                if (Integer.parseInt(numberOfElements) == -1) {
+                    comparables = SortUtil.getRandomComparableList(100);
+                }
+            } catch (Exception ex) {
+                System.out.println("MergeSort.exception while reading first input.");
+                comparableElementArray = reader.readLine().split(" ");
+            }
 
             if (numberOfElements!=null && comparableElementArray!=null && comparableElementArray.length>0) {
-
                 System.out.println("\n Final Sorted Array : " + Arrays.asList(sort(comparableElementArray)));
-
-
+            } else {
+                System.out.println("\n Final Sorted Array : " + Arrays.asList(sort(comparables)));
             }
         } catch (Exception ex) {
             ex.printStackTrace();

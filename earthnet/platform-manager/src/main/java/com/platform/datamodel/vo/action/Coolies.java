@@ -1,4 +1,4 @@
-package net.mycorp.vo.action;
+package com.platform.datamodel.vo.action;
 
 /**
  * JOBS:

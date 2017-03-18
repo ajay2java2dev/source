@@ -2,57 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b940997-6d21-494f-9ea9-4b9c188ad1bc" name="Default" comment="sam">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/vo/customer/CustomerProfile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/vo/customer/pk/CustomerProfilePK.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/src/main/java/Sample.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/BFS_Sample1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/DFS_Sample1.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/puzzles/Maze_Backtracking.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/target/classes/com/dev/sample/datastructures/trees/BFS_Sample1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/samples/target/classes/com/dev/sample/datastructures/trees/DFS_Sample1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_k.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_l.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_m.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_n.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_o.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_p.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_q.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_r.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_s.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_t" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_a.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_a_2.del" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_b.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_c.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_c_1.del" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_d.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_e.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_e_1.del" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_f.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_f_1.del" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_g.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_g_1.del" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_h.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/_i.cfs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/segments_j" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mvc-exceptions" afterPath="$PROJECT_DIR$/mvc-exceptions" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/segments.gen" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.m2e.core/nexus/fbc68baefa51e2890db56d33792774ed/segments.gen" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/src/Node.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/Tree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/puzzles/TreeTop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/vo/Graph.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mvc-exceptions" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../skynet/cloud/sample/gs-maven" afterPath="$PROJECT_DIR$/../skynet/cloud/sample/gs-maven" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spacenet/samples/eugenp/tutorials" afterPath="$PROJECT_DIR$/../spacenet/samples/eugenp/tutorials" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/samples.iml" afterPath="$PROJECT_DIR$/samples/samples.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/MergeSort.java" afterPath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/BinarySearchTree.java" afterPath="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/BinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.log" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/com.genuitec.eclipse.aeri.server1/server-config.json" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/com.genuitec.eclipse.aeri.server1/server-config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterPath="$PROJECT_DIR$/../eclipse/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../eclipse/.metadata/version.ini" afterPath="$PROJECT_DIR$/../eclipse/.metadata/version.ini" />
     </list>
     <ignored path="$PROJECT_DIR$/samples/target/" />
     <ignored path="$PROJECT_DIR$/platform-manager/target/" />
@@ -92,21 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="BFS.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/graph/BFS.java">
+      <file leaf-file-name="Tree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/MergeSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="252">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -164,10 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/platform-engine/pom.xml" />
-        <option value="$PROJECT_DIR$/platform-manager/pom.xml" />
-        <option value="$PROJECT_DIR$/platform-engine/src/main/java/com/dev/platform/action.java" />
-        <option value="$PROJECT_DIR$/platform-engine/src/main/java/com/dev/platform/Action.java" />
         <option value="$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/ActionManager.java" />
         <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/puzzles/StringCompression.java" />
         <option value="$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/vo/action/Cleaners.java" />
@@ -215,6 +158,10 @@
         <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/MergeSort.java" />
         <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/SortUtil.java" />
         <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/graph/BFS.java" />
+        <option value="$PROJECT_DIR$/samples/src/Node.java" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/vo/Graph.java" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/puzzles/TreeTop.java" />
+        <option value="$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/Tree.java" />
       </list>
     </option>
   </component>
@@ -320,104 +267,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="puzzles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="graph" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="earthnet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="samples" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sorting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
         <option name="show-excluded-files" value="false" />
       </pane>
@@ -437,7 +286,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
@@ -1123,7 +972,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1929" height="1038" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1144,9 +992,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23236994" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18735632" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25745684" sideWeight="0.49328858" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32600734" sideWeight="0.49328858" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2814238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32760474" sideWeight="0.5067114" order="6" side_tool="true" content_ui="tabs" />
@@ -1336,10 +1184,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/helper/MongoHelper.java" />
-    <entry file="file://$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/config/SimpleJPAPersistenceConfig.java" />
-    <entry file="file://$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/helper/GoogleCloudHelper.java" />
-    <entry file="file://$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/helper/ElasticHelper.java" />
     <entry file="file://$PROJECT_DIR$/platform-manager/src/main/java/net/mycorp/datasource/settings/MultiDatasourceSettings.java" />
     <entry file="file://$PROJECT_DIR$/platform-manager/src/main/resources/log4j.xml" />
     <entry file="file://$PROJECT_DIR$/platform-manager/pom.xml">
@@ -1540,23 +1384,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="217" column="0" lean-forward="false" selection-start-line="217" selection-start-column="0" selection-end-line="217" selection-end-column="0" />
-          <folding>
-            <element signature="e#8105#8106#0" expanded="true" />
-            <element signature="e#8133#8134#0" expanded="true" />
-            <element signature="e#8176#8177#0" expanded="true" />
-            <element signature="e#8210#8211#0" expanded="true" />
-            <element signature="e#8239#8240#0" expanded="true" />
-            <element signature="e#8266#8267#0" expanded="true" />
-            <element signature="e#8304#8305#0" expanded="true" />
-            <element signature="e#8336#8337#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/samples/samples.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1591,8 +1418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructure/sorting/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state relative-caret-position="286">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1610,8 +1437,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/graph/BFS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="-10">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/vo/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/puzzles/TreeTop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/com/dev/sample/datastructures/trees/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1682,6 +1549,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

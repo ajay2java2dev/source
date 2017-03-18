@@ -1,6 +1,6 @@
-package net.mycorp.vo.customer;
+package com.platform.datamodel.vo.customer;
 
-import net.mycorp.vo.customer.pk.CustomerProfilePK;
+import com.platform.datamodel.vo.customer.pk.CustomerProfilePK;
 
 import javax.persistence.*;
 import java.util.Set;

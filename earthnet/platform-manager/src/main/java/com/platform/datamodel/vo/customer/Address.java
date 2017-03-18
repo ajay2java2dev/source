@@ -1,4 +1,4 @@
-package net.mycorp.vo.customer;
+package com.platform.datamodel.vo.customer;
 
 /**
  * Created by AjayMenon on 12/29/2016.

@@ -1,4 +1,4 @@
-package net.mycorp.vo.action;
+package com.platform.datamodel.vo.action;
 
 /**
  * Daemon thread : Cleaners will look for unclosed connections, garbage collection and optimization.

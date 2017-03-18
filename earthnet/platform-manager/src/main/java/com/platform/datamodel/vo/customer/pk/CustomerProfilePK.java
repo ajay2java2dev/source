@@ -1,4 +1,4 @@
-package net.mycorp.vo.customer.pk;
+package com.platform.datamodel.vo.customer.pk;
 
 import javax.persistence.Id;
 

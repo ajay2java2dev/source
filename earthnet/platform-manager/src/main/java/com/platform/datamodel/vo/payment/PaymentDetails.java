@@ -1,4 +1,4 @@
-package net.mycorp.vo.payment;
+package com.platform.datamodel.vo.payment;
 
 /**
  * Created by AjayMenon on 12/29/2016.
